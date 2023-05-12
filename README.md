@@ -1,5 +1,4 @@
 # NLP Project: Basic Disease Prediction Chatbot
-<hr>
 This project is a part of FRA501: Natural Language Processing with Deep Learning.
 
 ## Members
